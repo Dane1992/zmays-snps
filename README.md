@@ -5,3 +5,4 @@ Project started on 2018-03-08
 New message! 
 Samples expected from sequencing core 2018-03-08
 Samples expected from sequencing core 2018-03-16
+\n\Maize reference genome version:refgen4
